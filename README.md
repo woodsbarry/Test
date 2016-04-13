@@ -8,3 +8,6 @@ Hello World
 #### Header Four
 ##### Header Five
 ###### Header Six
+*Italics*
+**Bold**
+_**Bold Italics**_
